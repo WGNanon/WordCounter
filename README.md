@@ -7,7 +7,7 @@
 ### If Chrome:
 1. Download/Clone the repo
 2. Go to [Manage Extensions](chrome://extensions) in Chrome
-3. Click `Load unpacked`
+3. Click `Load unpacked` (enable `Developer Mode` if you haven't yet)
 4. Select the root folder of the extension
 5. Might need to enable the extension or click `Update`, idk
 ### If not Chrome:
